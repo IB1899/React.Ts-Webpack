@@ -1,0 +1,17 @@
+*{padding:0;  margin:0; }
+
+body{ text-align:center;
+
+    nav{ background:white; height:5vh; 
+        a{ text-decoration:none; color:black; font-size:20px; margin:10px; line-height:30px; }
+    }
+
+    .Home{ height:95vh; width:100%; background:blue;
+        img{width:200px;}
+    }
+
+    .About{ height:95vh; width:100%; background:red;
+    }
+
+
+}

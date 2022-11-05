@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+}
+body nav {
+  background: white;
+  height: 5vh;
+}
+body nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  margin: 10px;
+  line-height: 30px;
+}
+body .Home {
+  height: 95vh;
+  width: 100%;
+  background: blue;
+}
+body .Home img {
+  width: 200px;
+}
+body .About {
+  height: 95vh;
+  width: 100%;
+  background: red;
+}
